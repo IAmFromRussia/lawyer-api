@@ -1,6 +1,6 @@
+
 using Lawyer_Api.Data;
 using Lawyer_Api.Models.Services;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
